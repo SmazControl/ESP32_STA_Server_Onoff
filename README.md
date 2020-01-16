@@ -1,7 +1,7 @@
 # ESP32_STA_Server_Onoff
 ESP32 JSON Post STA Server plus ONOFF GPIO
 
-* Limit
+* Limited
 
 Only access from mobile device that connected on the same WiFi-Router
 
